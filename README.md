@@ -1,2 +1,2 @@
-# KerasExamples
-Keras Example Project
+# Keras Example Project
+-Specific Weighted Loss Function
