@@ -9,7 +9,7 @@
 | c4  |  0.2  | 0.1  | 0.4 | 0.3 |
 
 - For above confusion matrix, all predictions can be evaluated with different weights. For example , c4-c3( 0.4 ) misprediction ratio can
-can have more penalty than c4-c2( 0.1 ) misprediction's.  For n classes, you have n x n weight matrix , and you initialize it as you wish.
+have more penalty than c4-c2( 0.1 ) misprediction's.  For n classes, you have n x n weight matrix , and you initialize it as you wish.
 
 - This script calculate confusion matrix for validation data. Then , set weight matrix element according to this validation matrix after
 every  epoch.
