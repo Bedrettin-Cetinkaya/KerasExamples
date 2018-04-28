@@ -1,2 +1,2 @@
 # Keras Example Project
--Specific Weighted Loss Function
+-Dynamic Weighted CrossEntropy Loss Function
